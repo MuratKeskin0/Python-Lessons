@@ -4,6 +4,3 @@ Welcome to my GitHub repository! Here, you'll find a collection of Python script
 
 Feel free to explore the code and reach out if you have any questions or suggestions!
 
-## Projects Overview
-
-## Contact
